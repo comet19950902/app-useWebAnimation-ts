@@ -1,4 +1,3 @@
-/* eslint-disable import/no-anonymous-default-export */
 import type { RefObject } from "react";
 import { useRef } from "react";
 
